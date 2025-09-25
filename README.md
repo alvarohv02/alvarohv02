@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Álvaro Herrero.  
 
-<!--
-**alvarohv02/alvarohv02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante del **Grado en Ciencia de Datos e Inteligencia Artificial** en la [ETSIINF - UPM]
 
-Here are some ideas to get you started:
+💻 Interesado/a en **Desarrollo de Software y Desarrollo Web**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente aprendiendo: Modelos de Aprendizaje Automático, Python avanzado, frameworks de datos...
+
+---
+
+## 🚀 Tecnologías & Herramientas
+- Lenguajes: Python, R, SQL, Vue, HTML, CSS, JavaScript 
+- Ciencia de Datos: Pandas, NumPy  
+- Bases de datos: MySQL, PostgreSQL  
+- Otros: Git, Linux, Docker  
+
+---
+
+## 📈 GitHub Stats
+![alvarohv02](https://github-readme-stats.vercel.app/api?username=alvarohv02&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarohv02&layout=compact&theme=radical)
+
+---
+
+## 📫 Cómo contactarme
+- ✉️ Email: [alvaro.herrero.vidal@gmail.com]  
+- 💼 LinkedIn: [(https://www.linkedin.com/in/%C3%A1lvaro-herrero-vidal-261698373/)]  
