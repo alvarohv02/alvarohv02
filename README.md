@@ -2,7 +2,7 @@
 
 🎓 Estudiante del **Grado en Ciencia de Datos e Inteligencia Artificial** en la [ETSIINF - UPM]
 
-💻 Interesado/a en **Desarrollo de Software y Desarrollo Web**  
+💻 Interesado en **Desarrollo de Software y Desarrollo Web**  
 
 🌱 Actualmente aprendiendo: Modelos de Aprendizaje Automático, Python avanzado, frameworks de datos...
 
